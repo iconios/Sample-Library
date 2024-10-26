@@ -2,7 +2,7 @@
   "name": "sample-library",
   "version": "1.0.0",
   "description": "Project for a sample library with books. Project contains html, css, scss and JavaScript files",
-  "main": "index.html",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
-    "git": "^0.1.5"
+    "git": "^0.1.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
   }
 }
