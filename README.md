@@ -1,0 +1,1 @@
+The Project is for a sample library with books. Written in html, CSS and JavaScript.

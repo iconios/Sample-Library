@@ -1,0 +1,15 @@
+{
+  "name": "sample-library",
+  "version": "1.0.0",
+  "description": "Project for a sample library with books. Project contains html, css, scss and JavaScript files",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ademuyiwa Ikotun",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "git": "^0.1.5"
+  }
+}
